@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android basic kotlin card app</string>
+    <string name="happy_birthday_text">Happy Birthday, Dip!</string>
+    <string name="signature_text">From Dipak.</string>
+</resources>
